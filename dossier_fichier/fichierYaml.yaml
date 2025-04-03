@@ -1,0 +1,26 @@
+# Informations sur une personne
+personne:
+  nom: "Jean Dupont"
+  age: 30
+  adresse:
+    rue: "123 Rue de l'Exemple"
+    ville: "Paris"
+    code_postal: "75001"
+  contact:
+    email: "jean.dupont@example.com"
+    telephone: "+33 123 456 789"
+
+# Liste de compétences
+competences:
+  - "Python"
+  - "Data Science"
+  - "Machine Learning"
+
+# Informations sur un projet
+projet:
+  nom: "Projet Data"
+  description: "Un projet pour analyser des données."
+  statut: "En cours"
+  contributeurs:
+    - "Jean Dupont"
+    - "Marie Curie"
